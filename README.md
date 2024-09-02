@@ -1,8 +1,9 @@
-> [!IMPORTANT]
-> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. Please [onboard the course][onboarding_tutorial] before starting. 
-> 
+> [!NOTE]
+> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. 
+
+> [!TIP]
 > The project builds upon the work done in previous projects. 
-> To ensure a smooth learning experience, we recommend completing the [Docker][Docker], [AWS][AWS] and [Terraform][Terraform] projects first.
+> We recommend completing the [Docker][Docker], [AWS][AWS] and [Terraform][Terraform] projects first.
 
 # The Polybot Service: Kubernetes Project
 
